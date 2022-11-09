@@ -1,0 +1,19 @@
+.classy {
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#one {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#two {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: 700;
+}
